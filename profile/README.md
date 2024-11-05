@@ -72,8 +72,11 @@ Don't miss out on your chance to become a top-tier player. With **Apex Legends H
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/RCc3ioa.png" width="550" height="300" />
-  <img src="https://i.imgur.com/T1gndjX.png" width="550" height="300" />
+  <img src="https://i.imgur.com/Djao3vE.png" width="550" height="300" />
+  <img src="https://i.imgur.com/0XvlhJ7.png" width="550" height="300" />
+  <img src="https://i.imgur.com/Q51VuH7.png" width="550" height="300" />
+  <img src="https://i.imgur.com/QsNc1YW.png" width="550" height="300" />
+  <img src="https://i.imgur.com/JBleXoL.png" width="550" height="300" />
 </div>
 
 ## 🔗 Tags
